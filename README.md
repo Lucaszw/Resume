@@ -2,8 +2,12 @@
 
 Hello! Here you will find a link to my resume as well as previous work evaluations.
 
-Markdown version below:
+PDF (prettified version) here:
 
+https://github.com/Lucaszw/Resume/blob/master/resume2018.pdf
+
+
+Markdown version below:
  
  # Lucas Zeer
 * lucas.zeer@gmail.com
