@@ -19,9 +19,17 @@ Markdown version below:
 
 
 ## Experience 
+
+### KitchenMate 
+* Sofware Engineer
+* October 2018 - Present
+
+KitchenMate deliveres fresh meals to offices in the Toronto area. Unlike other meal delivery options: KitchenMate also provides smart ovens that ensure each meal is cooked to perfection. As a software engineer: I work on the mobile application and backend software for handling deliveries, inventory, meal planning and more. Our tech stack is made up of Node, Angular, Express, PostgreSQL, and Sequelize.
+
+
 ### The Brainery Inc (FerroBot) 
 * Founder
-* February 2018 - Present. 
+* February 2018 - October 2018. 
 
 I have been developing the FerroBot: a patent pending digital microfluidics platform based off of magnetofluidics. The FerroBot allows for much more precise and reliable drop control, while also requiring no expensive disposables or thin films. In addition to developing the hardware; I have also been building an Electron based control application. I also release weekly YouTube videos covering a range of Ferrofluid related subject matter.
 
