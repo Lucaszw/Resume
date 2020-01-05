@@ -17,190 +17,210 @@ Markdown version below:
 * 2-558 College St
 * M6G 1B1 
 
+## Education
 
-## Experience 
+BEng, Honours, With Distinction in Nanotechnology Engineering, University of Waterloo
+September 2012 - April 2017
 
-### KitchenMate 
-* Sofware Engineer
-* October 2018 - Present
+## Experience
 
-KitchenMate deliveres fresh meals to offices in the Toronto area. Unlike other meal delivery options: KitchenMate also provides smart ovens that ensure each meal is cooked to perfection. As a software engineer: I work on the mobile application and backend software for handling deliveries, inventory, meal planning and more. Our tech stack is made up of Node, Angular, Express, PostgreSQL, and Sequelize.
+### Software Engineer at KitchenMate, Toronto
+#### October 2018 - Present
+- Developed with the following software stack: Node, Angular, Express, PostgreSQL, and Sequelize, and Ionic.
+- Built a native mobile application for our customers.
+- Generated recursive algorithms for automating our costing and production.
+- Scaled our backend software as we grew from 5 to 30 offices (around 20 active customers per office).
+- Performed code reviews, supervised numerous software interns.
+- Lead an internal team project that earned a $5000 prize in a machine learning hackathon.
+- Developed internal tool in Angular for comparing various hypotheses using Jupyter Notebooks.
+- Migrated codebase to Webpack, Yarn Workspaces, and ES6.
 
+### Founder of The Brainery Inc, Kitchener
+#### February 2018 - October 2018
+- Filed a provisional patent relating to actuation of droplets using magnetic traps.
+- Developed a hardware device called the FerroBot as well as control software using web technologies.
+- Built a solution that required no expensive disposables and a low manufacturing cost.
+- Built an electron based control application (Node, Backbone, ThreeJS, and D3).
+- Released weekly YouTube videos covering a range of Ferrofluid related subject matter.
 
-### The Brainery Inc (FerroBot) 
-* Founder
-* February 2018 - October 2018. 
+### Lead Software Developer at Sci-Bots, Kitchener
+#### June 2017 - May 2018
+- Developed various open source frameworks for Sci-Bots’ digital microfluidics device.
+- Created an electron based MQTT communication library for a variety of lab hardware.
+- Took advantage of 3D transformations for video overlay functionality.
+- Handled scheduling and execution of digital microfluidics protocols.
+- Created a plugin and process manager for handling Python and Node JS child processes. 
+- Worked on a companion library for enabling programmable control of the DropBot in both Python and JS.
 
-I have been developing the FerroBot: a patent pending digital microfluidics platform based off of magnetofluidics. The FerroBot allows for much more precise and reliable drop control, while also requiring no expensive disposables or thin films. In addition to developing the hardware; I have also been building an Electron based control application. I also release weekly YouTube videos covering a range of Ferrofluid related subject matter.
+### Software Developer at Nvidia Deep Learning, Santa Clara
+#### Coop May 2016 - September 2016
+- Worked on an open source machine learning server for training neural networks in Python and Lua. 
+- Served thousands of users around the world.
+- Developed machine learning algorithms for feature extraction (in Caffe and Torch).
+- Extended the web based UI for neuron and network visualizations (using Flask and AngularJS).
+- Enhanced the web applications’ job scheduler and REST API.
+- Performed code reviews, developed tests, and followed Kanban and Agile development procedures.
 
-### Sci-Bots
-* Lead Software Developer
-* June 2017 - May 2018 
+### Technical Cofounder at Lani Inc, Kitchener
+#### September 2013 - June 2015
+- Technical cofounder of a software startup involving 3D printing.
+- Developed a platform for scheduling, pricing, and visualizing 3D prints.
+- Built with Ruby on Rails, Backbone JS, and Coffeescript. 
+- Deployed on Heroku.
+- Created a 3D Model renderer using Three JS and WebGL as well as many backend Mesh libraries for mesh repair, model stitching, and other pre and post processing procedures.
 
-Developed software for Sci-Bots’ Microfluidics platform (The DropBot) called SciCAD. SciCAD is an Electron based application based on a custom MQTT communication library. The application takes advantage of 3D transformations for video overlay functionality, and handles scheduling and execution of digital microfluidic protocols. Furthermore, the application includes both a plugin and process manager for handling Python and Node JS child processes. In addition, I worked on a companion library for enabling programmable control of the DropBot in both Python and JS.
+### Software Developer at Nvidia, Santa Clara
+#### January 2016 - April 2016
+- Developed a PCIe and NVLink topology Linux Visualization Tool.
+- Implemented various traversal and graphing algorithms such as Reingold-Tildford Algorithm, and Forced Layouts.
+- Worked on a WebGL and ReactJS based internal spec designer tool involving: UV Mapping, Active Grid Textures, and Voxel Painting.
 
-### Nvidia Deep Learning
-* Software Developer for DIGITS
-* Coop (May 2016 - September 2016) 
-
-DIGITS is an open source machine learning server based platform for training neural networks in Python and Lua. I developed machine learning algorithms for feature extraction (in Caffe and Torch), extended the web based UI for neuron and network visualizations (using Flask and Angular JS), and enhancing the job scheduler and REST API. I also continually performed code reviews, developed tests, and followed Kanban and Agile development procedures.
-
-### Lani Inc
-* Entrepreneurial COOP (CTO)
-* September 2013 - June 2015
-
-I was the technical cofounder of a software startup involving 3D printing. Lani was a web service for scheduling, pricing, and visualizing 3D Prints. Lani was deployed on an AWS EC2 instance with a Ruby on Rails backend. Furthermore, I developed a 3D Model renderer using Three JS and WebGL as well as many backend Mesh libraries for mesh repair, model stitching, and other pre and post processing procedures.
-
-### Nvidia
-* Internal Software Developer
-* Coop (January 2016 - April 2016)
-
-
-Developed a PCIe and NVLink topology Linux visualization tool in Python, WebGL, and D3.js. This project involved various tree traversing and graphing algorithms such as the Reingold-Tildford Algorithm, and Forced Layouts. Furthermore I worked on a WebGL and ReactJS based internal spec designer tool. This project involved such processes as UV Mapping, Active Grid Textures, and Voxel Painting.
-
-
-### National Institute for Nanotechnology
-* Coop (January 2014 to April 2014)
-* Coop (September 2014 to December 2014)
-
-
-Designed various audio distortion and amplifier circuits, as well as signal processing software in Matlab, Python, and C++. Developed the initial prototype for the Molecular Overdrive Guitar Pedal and created circuits to automate some of the groups device testing procedures. Furthermore, I fabricated thin film devices in a cleanroom setting. I also received second authorship of the paper: “Musical molecules: the molecular junction as an active component in audio distortion circuits.”
+### National Institute for Nanotechnology, Edmonton
+#### January 2014 - April 2014
+#### September 2014 - December 2014
+- Designed various audio distortion and amplifier circuits, as well as signal processing software in Python, C++, and Matlab.
+- Second authorship on the paper: “Musical molecules: the molecular junction as an active component in audio distortion circuits.”
+- Worked in a ISO Class 6 cleanroom on developing silicon based components.
 
 ### Menlo Systems GMBH
-* Software & Hardware Engineering Coop
-* (May 2013 to August 2013)
+#### May 2013 - August 2013
+- Programmed a ray tracing simulation that accounted for gaussian optics (such that rays could be bent by movable lenses). 
+- Built to operate in real time and could be optimized to match certain characteristics. 
+- Developed an embedded optical mechanical system in C++ for Astro Combs to account for the redshift of interstellar light. 
+- Aided astronomers in finding earth-like exoplanets then the current limits of our technology through the software.
+- Responsible for the setup of the optical-mechanical systems using Hollow Core fibres for maximum optic coupling.
 
-Menlo Systems is an innovative laser company operating in Martinsried, Munich Germany. I worked on two main projects: First I worked on a ray tracing simulation that accounted for gaussian optics (such that rays could be bent by movable lenses). The rays updated in real time, and could be optimized to match certain characteristics. I also worked on an embedded optical mechanical system in C++ for Astro Combs to account for the redshift of interstellar light. One application of these devices was to help astronomers find smaller more earth-like exoplanets then the current limits of our technology. I also was responsible for the setup of the optical-mechanical systems.
+## Skills
 
+### Languages of Choice
 
-## Skills  
+- JavaScript (Node), C++, Python, C# (Unity Game Engine), Ruby, and Matlab/Octave (Signal Processing Toolbox).
 
-### Machine Learning:
+### Machine Learning
 
-Experience with PyCaffe, Torch, and Tensorflow.js deep learning frameworks. Developed for the open source DIGITS (Deep Learning GPU Training System) project at Nvidia. Worked on feature extraction techniques for Convolutional Neural Nets for Caffe and Torch, and built a Network Visualization tool for Caffe and Torch.
+- Experience with PyCaffe, Torch, and Tensorflow deep learning frameworks.
+- Developed for the open source DIGITS (Deep Learning GPU Training System) project at Nvidia. 
+- Worked on feature extraction techniques for Convolutional Neural Nets for Caffe and Torch.
+- Built a Network Visualization tool for Caffe and Torch.
 
-### Cloud Platform and Web Development:
+### Cloud Platform and Web Development
 
-Full stack web developer with a high level of experience in: NodeJS, HTML5/ CSS3, MVC & Server Frameworks (Flask, Express, ReactJS, Rails, Angular), and databases like Redis, Mongo, Postgres, MySQL, and beyond. Extensive experience with: Electron, Bootstrap, Nginx, and Linux/Bash. Deployed many applications on various cloud platforms such as AWS (EC2), and Heroku.
+- Full stack web developer with a high level of experience in: Node, HTML5/CSS3, MVC & Web Frameworks.
+- Express, Sequelize, Angular, React, Flask, Rails.
+- PostgreSQL, Redis, Mongo, MySQL, and beyond. 
+- Electron, Bootstrap, Nginx, and Linux/Bash.
+- Deployed many applications on various cloud platforms such as AWS (EC2, Lambda), Heroku, and Docker.
 
-### Languages of Choice:
+### 3D Graphics
 
-JavaScript, C++, Python, C# (Unity Game Engine), Ruby, and Matlab/Octave (Signal Processing Toolbox).
+- Strong knowledge of 3D Meshes, 3D Rendering / Graphics Algorithms, and Game Development. 
+- Used WebGL and ThreeJS for many personal and corporate related projects.
 
-### 3D Graphics:
+### Programming Models / Design Patterns
 
-Strong knowledge of 3D Meshes, 3D Rendering / Graphics Algorithms, and Game Development. Used WebGL and ThreeJS for many personal and corporate related projects.
+- Extensive knowledge of object oriented programming, MVC architectures, reactive programming patterns, and functional programming paradigms.
 
-### Programming Models / Design Patterns:
+### Signal Processing
 
-Extensive knowledge of object oriented programming, MVC architectures, reactive programming patterns, and functional programming paradigms.
+- Audio Distortion Software, Spectral Analysis of Audio Waveforms,  Electrical-Mechanical, and Optical-Mechanical systems.
 
-### Signal Processsing:
+### Electronics
 
-Audio Distortion Software, Spectral Analysis of Audio Waveforms, Mechanical, and Optical-Mechanical systems.
+- Switching Boards, RC Filters,  Amplifiers, Oscillators, Differentiators, Transformers, Tesla Coils, etc. 
+- Worked with complex systems for audio related circuits, optical systems, bioinformatics, and microfluidics. 
+- In depth experience in circuit design tools such as EagleCAD and KiCAD.
 
-### Electronics:
+### Digital Control Systems
 
-RC Filters, Amplifiers, Oscillators, Differentiators, Transformers, etc. Worked with complex systems for audio related circuits, optical systems, bioinformatics, and microfluidics. In depth experience in circuit design tools such as EagleCAD and KiCAD.
-
-### Digital Control Systems:
-
-Multi-threading, drawing, and control of optical sensors. Worked on control systems for both Microfluidic devices, and fuzzy logic systems. Wide range of experience with many IC electronics, and low level communication protocols.
-
+- Multi-threading, drawing, and control of optical sensors. 
+- Worked on control systems for both microfluidic devices, and fuzzy logic systems. 
+- Wide range of experience with many IC electronics, and low level communication protocols.
 
 ## Main Projects
 
-
-### Javascript Liquid Simulator 
-
-Developed a liquid simulator for SVG objects using D3.js & Turf.js . The tools allows for SVG to be "liquified" for very interestign visuals. Great for Logos, Website Banners, and for simulating drops in digital microfluidic chips. Required converting and SVG into a 2D mesh, and use of verlet integration as well as marching squares.
-
 ### DropLab DMF Device (Capstone Project)
 
-A breadboard for moving fluids using a grid of electrodes. This project involved developing a transformer based amplifier circuit, implementation of a new materials, and software for improving DMF device automation. I focused on building a local flask based web server to control the and monitor the board using a REST API. I also developed a React JS front end to display the current board state and running recipes. I was later contracted to extend the software for Sci-Bots’ open hardware platform: the DropBot.
+- A breadboard for moving fluids using a grid of electrodes. 
+- This project involved developing a transformer based amplifier circuit, implementation of a new materials, and software for improving DMF device automation. 
+- Built a local flask based web server to control and monitor the board using a REST API.
+- Developed a React JS front end to display the current board state and running recipes. 
+- Contracted to extend the software for Sci-Bots’ open hardware platform: the DropBot.
 
-### Autonomous Driving Dashboard System:
-* Fuzzy Logic and Neural Networks
+### Autonomous Driving Dashboard System
+- Fuzzy Logic and Neural Networks
+- Developed a car dashboard system to identify the various traffic symbols in front of a driver.
+- Built using the Torch framework and an AlexNet neural network architecture. 
+- Application ran as a local web server with a React based front-end. 
 
-Developed a car dashboard system to identify the various traffic symbols in front of a driver. The system was built using the Torch framework and an AlexNet neural network architecture. The application ran as a local web server with a React based front-end.
+### Biofeedback Reader
+- Developed an analogue device to capture and record galvanic skin response.
+- Created a multi-threaded java application for real-time monitoring. 
+- The purpose of the project was to create a fun game for family and friends using GSR as a form of lie detector. 
 
-### Biofeedback Reader:
+### Multi-Agent Path Finding for Dense Systems
+#### Undergraduate Research Project (NE 459) with Prof. William Cowan
 
-Developed an analogue device to capture and record galvanic skin response, as well as a multi-threaded java application for real-time monitoring. The purpose of the project was to create a fun game for family and friends using GSR as a form of lie detector.
+- Javascript based path finding systems for multi-agents in a dense setting. 
+- Approached via similar paradigms as those used in train, and traffic based systems. 
+- This was incorporated into a digital micro-fluidic system to handle multiple moving drop units simultaneously.
 
-### Multi-Agent Path Finding for Dense Systems:
-* Undergraduate Research Project (NE 459) with Prof. William Cowan
+### Real-time Unity Mesh Importer
+- Worked on a plugin to import/export STL files via HTTP requests in the Unity Game Engine. 
+- Applications include allowing developers to add 3D Printing design tools to their games, as well as potentially allowing developers to export assets to sites such as Thingyverse.
 
-Javascript based path finding systems for multi-agents in a dense setting. Approached via similar paradigms as those used in train, and traffic based systems. This was incorporated into a digital micro-fluidic system to handle multiple moving drop units simultaneously.
-
-### Real-time Unity Mesh Importer:
-
-Worked on a plugin to import/export STL files via HTTP requests in the Unity Game Engine. Applications include allowing developers to add 3D Printing design tools to their games, as well as potentially allowing developers to export assets to sites such as Thingyverse.
-
-### MolCToy Contribution Project:
-* Nano-Electronics
-
-A four person project in which we proposed contributions to the Open Source Tool MolCToy (A simulation tool for investigation of hopping transport mechanisms). Our contributions included adding support for modeling of photo-active hopping.
-
-### And more...
-These are just a few things I’ve worked on that I’m especially proud of. To see more of my projects checkout my github: https://github.com/lucaszw
+### Bubble Wall
+#### Hack the 6ix 2019
+- Built a bubble wall with colleagues that could be controlled wirelessly.
+- Made up of 10 individually addressable valves, led strips, Bluetooth 4, Arduino, and a high power switching board.
+- Software utilized React and Web Bluetooth.
 
 
-## My Favorite Courses
+### Light Box Design Software
+#### DisruptAI 2019
+- First Place Prize Winner ($5000)
+- Developed a software application in ThreeJS for designing paper light boxes in SVG format.
+- Wrote custom gcode for printing designs using a standard laser engraver or cutter.
+- Demonstrated potential for encouraging individuals to create image segmentation datasets. 
 
-### Computational Intelligence: Fuzzy Logic and Neural Networks:
-The course introduces novel concepts for computational intelligence based on soft computing techniques. It includes concepts on knowledge based reasoning, fuzzy inferencing systems and connectionist modeling based on artificial neural networks.
+## My Favourite Courses
 
-### Object Oriented Programming for Nano-Simulations:
-Fundamental of Object Orientation, C++ Object Oriented Syntax, Pointers & Dynamic Memory Allocation, Memory Management, Inheritance, Templates, and the STL, Numerical Analysis, Linear Algebra in C++, Fourier Transforms in C++, and Monte Carlo Methods.
+### Object Oriented Programming for Nano-Simulations
+- Fundamentals of Object Oriented Programming, C++, Pointers & Dynamic Memory Allocation, Memory Management, Inheritance, - - Templates, and the STL, Numerical Analysis
+- Linear Algebra in C++, Fourier Transforms in C++,  and Monte Carlo Methods.
 
-### Micro and Nano Scale Computer-aided Design (CAD):
-Modeling and simulation of micro, nano, and fluidic systems. Learned how to use Finite Element Analysis to simulate how a design would act under real world forces. In addition this course gave a review of differential-equation systems, boundary conditions, and solvers for complex, coupled transport problems.
+### Computational Intelligence: Fuzzy Logic and Neural Networks
+- The course introduces novel concepts for computational intelligence based on soft computing techniques. 
+- Concepts on knowledge based reasoning, fuzzy inferencing systems and connectionist modelling based on artificial neural networks.
 
-### Continuum Mechanics:
-Analysis of differential equations to model fluidic systems using tensor operations and tensor calculus. Applications for this course include modelling of fluids using the Navier-Stokes equations.
+### Micro and Nano Scale Computer-aided Design (CAD)
+- Modeling and simulation of micro, nano, and fluidic systems. 
+- Learned how to use Finite Element Analysis to simulate how a design would act under real world forces. 
+- Review of differential-equation systems, boundary conditions, and solvers for complex, coupled transport problems.
 
-### Nano-Electronics (Applied Quantum Mechanics):
-Continuation of Quantum Mechanics with a focus on applications in next generation electronic devices. Exploration of simulation techniques used across Open Source projects on Nanohub, accompanied by a project to introduce students to open research, and contribution.
+### Continuum Mechanics
+- Analysis of differential equations to model fluidic systems using tensor operations and tensor calculus. 
+- Applications for this course include modelling of fluids using the Navier-Stokes equations.
 
-### Algorithms and Data Structures:
-Course covered asymptotic and algorithm analysis, relationships and data structures, Sequential storage: Lists, queues, stacks, deques , Hash tables , Trees , Priority queues and heaps, Sort algorithms, Graphs and graph algorithms, Algorithm design techniques, Complexity classes and NP completeness.
+### Nano-Electronics (Applied Quantum Mechanics)
+- Continuation of Quantum Mechanics with a focus on applications in next generation electronic devices. 
+- Exploration of simulation techniques used across open source projects on Nanohub
+- Accompanied by a project to introduce students to open research, and contribution.
 
+### Algorithms and Data Structures
+- Course covered asymptotic and algorithm analysis, relationships and data structures.
+- Lists, queues, stacks, hash tables, trees, priority queues and heaps.
+- Sort algorithms, Graphs and graph algorithms,  algorithm design techniques.
+- Complexity classes and NP completeness.
 
 ## Awards
-
-### Autodesk Capstone Software Design Award
-University of Waterloo (Winter 2017)
-
-### Baylis Medical Capstone Design Award
-University of Waterloo (Fall 2016)
-
-### NormEsch Entrepreneurial Capstone Award
-University of Waterloo (Winter 2017)
-
-### Velocity Fund 25K
-University of Waterloo (Summer 2015)
-
-### Engineers of the Future Trust
-University of Waterloo (Fall 2016)
-
-### Norman Esch ECOOP Award
-University of Waterloo (Spring 2015)
-
-### Excellence in the Sciences
-BC Science Association and BCIC (2012)
-
-### Presidents Scholarship
-University of Waterloo (2012)
-
-### Best in Fair
-District Science Fair (2012)
-
-### HKVCA Cross-Canada Wide Writing Contest
-Second Place (2011)
-
-### Bronze Award in the National Science Fair
-Charlottetown (2012) and Toronto (2011)
-
-### Best Rhythm Section Player
-BC Interior Jazz Festival (2011)
+- **Autodesk Capstone Software Design Award** University of Waterloo (Winter 2017)
+- **Baylis Medical Capstone Design Award** University of Waterloo (Fall 2016)
+- **NormEsch Entrepreneurial Capstone Award** University of Waterloo (Winter 2017)
+- **Velocity Fund 25k** University of Waterloo (Summer 2015)
+- **DisruptAI first place** Microsoft sponsored hackathon (2019)
+- **Presidents Scholarship** University of Waterloo (2012)
+- **Engineers of the Future Trust** University of Waterloo (Fall 2016)
+- **Norman Esch ECOOP Award** University of Waterloo (Winter 2017)
+- **Best in Fair** District Science Fair (2012)
+- **Bronze Award in the National Science Fair** Charlottetown (2012) Toronto (2011)
+- **HKVCA Cross-Canada Wide Writing Contest** Second Place (2011)
