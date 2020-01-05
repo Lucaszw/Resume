@@ -4,7 +4,7 @@ Hello! Here you will find a link to my resume as well as previous work evaluatio
 
 PDF (prettified version) here:
 
-https://github.com/Lucaszw/Resume/blob/master/resume2018.pdf
+https://github.com/Lucaszw/Resume/blob/master/Resume-2020.pdf
 
 
 Markdown version below:
