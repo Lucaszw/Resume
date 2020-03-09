@@ -1,3 +1,7 @@
+
+
+![Cover](https://raw.githubusercontent.com/Lucaszw/Resume/master/Screen%20Shot%202020-03-09%20at%2010.43.14%20AM.png)
+
 # Resume
 
 Hello! Here you will find a link to my resume as well as previous work evaluations.
