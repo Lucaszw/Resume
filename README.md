@@ -28,7 +28,7 @@ February 2020 - March 2021
 ## Experience
 
 ### Software Engineer at KitchenMate, Toronto
-#### October 2018 - Present
+#### October 2018 - August 2020
 - Developed with the following software stack: Node, Angular, Express, PostgreSQL, and Sequelize, and Ionic.
 - Built a native mobile application for our customers.
 - Generated recursive algorithms for automating our costing and production.
