@@ -102,7 +102,9 @@ February 2020 - March 2021
 
 ### Machine Learning
 
-- Experience with PyCaffe, Torch, and Tensorflow deep learning frameworks.
+- Experience with Keras, PyCaffe, Torch, and Tensorflow deep learning frameworks.
+- Trained neural networks used in production software for predicting weekly food consumption
+- Implemented end to end machine learning pipelines
 - Developed for the open source DIGITS (Deep Learning GPU Training System) project at Nvidia. 
 - Worked on feature extraction techniques for Convolutional Neural Nets for Caffe and Torch.
 - Built a Network Visualization tool for Caffe and Torch.
