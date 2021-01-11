@@ -13,14 +13,17 @@ Markdown version below:
 * lucas.zeer@gmail.com
 * 1 519 498 9113
 * Zeer.io
-* Toronto, Ontario
-* 2-558 College St
-* M6G 1B1 
+* Milan, Italy
+* Via Giuseppe Montanelli 2
+* 20156
 
 ## Education
 
 BEng, Honours, With Distinction in Nanotechnology Engineering, University of Waterloo
 September 2012 - April 2017
+
+Masters in Design for Kids and Toys, Politecnico Di Milano
+February 2020 - March 2021
 
 ## Experience
 
@@ -94,7 +97,7 @@ September 2012 - April 2017
 
 ### Languages of Choice
 
-- JavaScript (Node), C++, Python, C# (Unity Game Engine), Ruby, and Matlab/Octave (Signal Processing Toolbox).
+- JavaScript (Node), C++, Python, GLSL, C# (Unity Game Engine), Ruby, and Matlab/Octave (Signal Processing Toolbox).
 
 ### Machine Learning
 
@@ -113,8 +116,8 @@ September 2012 - April 2017
 
 ### 3D Graphics
 
-- Strong knowledge of 3D Meshes, 3D Rendering / Graphics Algorithms, and Game Development. 
-- Used WebGL and ThreeJS for many personal and corporate related projects.
+- Strong knowledge of 3D Meshes, 3D Rendering / Graphics Algorithms, Shaders, and Game Development. 
+- Use WebGL and ThreeJS for many personal and corporate related projects.
 
 ### Programming Models / Design Patterns
 
@@ -181,6 +184,12 @@ September 2012 - April 2017
 - Developed a software application in ThreeJS for designing paper light boxes in SVG format.
 - Wrote custom gcode for printing designs using a standard laser engraver or cutter.
 - Demonstrated potential for encouraging individuals to create image segmentation datasets. 
+
+### Glow Worm Toy 
+- Developed a prototype toy with a focus on emergent positional patterns through IR enhanced toys.
+- Each glow worm is turned on by pressing its back, and causing a periodic response from its surrounding toys.
+- The result is fantastic light effects that people of all ages can engadge with
+
 
 ## My Favourite Courses
 
