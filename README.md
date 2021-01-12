@@ -27,6 +27,12 @@ February 2020 - March 2021
 
 ## Experience
 
+### Design Engineer Intern at Hape
+#### November 2020 - Present
+- Working on various toy concepts combing electronic and digital components
+- Combing software and hardware elements in the toys for immersive experiences
+- Continuing the development of an undisclosed toy concept I previously developed with two other students
+
 ### Software Engineer at KitchenMate, Toronto
 #### October 2018 - August 2020
 - Developed with the following software stack: Node, Angular, Express, PostgreSQL, and Sequelize, and Ionic.
