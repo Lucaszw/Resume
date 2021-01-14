@@ -37,7 +37,7 @@ February 2020 - March 2021
 #### October 2018 - August 2020
 - Developed with the following software stack: Node, Angular, Express, PostgreSQL, and Sequelize, and Ionic.
 - Built a native mobile application for our customers.
-- Implemented an autmated machine learning pipleline and trained neural networks for predicting our food distribution.
+- Implemented an automated machine learning pipleline and trained neural networks for predicting our food distribution.
 - Generated recursive algorithms for automating our costing and production.
 - Scaled our backend software as we grew from 5 to 30 offices (around 20 active customers per office).
 - Performed code reviews, supervised numerous software interns.
