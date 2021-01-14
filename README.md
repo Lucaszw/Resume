@@ -153,7 +153,7 @@ February 2020 - March 2021
 ### DropLab DMF Device (Capstone Project)
 
 - A breadboard for moving fluids using a grid of electrodes. 
-- This project involved developing a transformer based amplifier circuit, implementation of a new materials, and software for improving DMF device automation. 
+- This project involved developing a transformer based amplifier circuit, implementation of a new material for DMF devices, and creating intelligent software for improving DMF device automation. 
 - Built a local flask based web server to control and monitor the board using a REST API.
 - Developed a React JS front end to display the current board state and running recipes. 
 - Contracted to extend the software for Sci-Bots’ open hardware platform: the DropBot.
