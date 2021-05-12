@@ -22,13 +22,18 @@ Markdown version below:
 BEng, Honours, With Distinction in Nanotechnology Engineering, University of Waterloo
 September 2012 - April 2017
 
-Masters in Design for Kids and Toys, Politecnico Di Milano
+Masters in Design for Kids and Toys with Distinction, Politecnico Di Milano
 February 2020 - March 2021
 
 ## Experience
 
-### Design Engineer Intern at Hape
+### Co-Founder of Jellyfish Fab. Design Studio
 #### November 2020 - Present
+- Milan based design and engineering team focused on IoT and Deep Tech. toys
+- We are building high tech educational toys related to STEAM with a focus on creatively engaging the children
+
+### Design Engineer Intern at Hape
+#### November 2020 - February 2020
 - Working on various toy concepts combing electronic and digital components
 - Combing software and hardware elements in the toys for immersive experiences
 - Continuing the development of an undisclosed toy concept I previously developed with two other students
