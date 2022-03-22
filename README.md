@@ -31,6 +31,7 @@ February 2020 - March 2021
 #### November 2020 - Present
 - Milan based design and engineering team focused on IoT and Deep Tech. toys
 - We are building high tech educational toys related to STEAM with a focus on creatively engaging the children
+- Launched and successfully funded a KickStarter campaign for a Ferrofluid Lamp Product in Summer of 2021 (FerroPet). Expecting to start our deliveries in April 2022; five months ahead of our September 2022 launch goal.
 
 ### Design Engineer Intern at Hape
 #### November 2020 - February 2020
@@ -57,6 +58,7 @@ February 2020 - March 2021
 - Built a solution that required no expensive disposables and a low manufacturing cost.
 - Built an electron based control application (Node, Backbone, ThreeJS, and D3).
 - Released weekly YouTube videos covering a range of Ferrofluid related subject matter.
+- Hosted many workshops and museum events related to my FerroBot designs for kids and adults alike
 
 ### Lead Software Developer at Sci-Bots, Kitchener
 #### June 2017 - May 2018
