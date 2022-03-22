@@ -23,8 +23,8 @@ February 2020 - March 2021
 ## Experience
 
 ### Game Developer & Designer for English Islands
-#### January 20220 - Present
-- Lead Game Developer for English Islands: a Unity based game for teaching english to children in Japan
+#### January 2022 - Present
+- Lead Game Developer for English Islands: a Unity based game for teaching English to children
 - English Islands utilizes a combination of cutting edge technologies such as voice recognition along with WebAssembly / WebGL
 - Using our backend software: we can create catered education experiences & levels for teachers and parents
 
