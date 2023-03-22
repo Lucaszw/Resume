@@ -7,7 +7,6 @@ Markdown version below:
  # Lucas Zeer
 * lucas.zeer@gmail.com
 * +39 347 8483119
-* Zeer.io
 * Milan, Italy
 * Via Giuseppe Montanelli 2
 * 20156
