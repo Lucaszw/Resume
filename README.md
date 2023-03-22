@@ -24,9 +24,9 @@ February 2020 - March 2021
 
 ### Game Developer & Designer for English Islands
 #### January 2022 - Present
-- Lead Game Developer for English Islands: a Unity based game for teaching English to children
-- English Islands utilizes a combination of cutting edge technologies such as voice recognition along with WebAssembly / WebGL
-- Using our backend software: we can create catered education experiences & levels for teachers and parents
+- Lead Game Developer for English Islands: a web based game for teaching English to children
+- English Islands utilizes a combination of cutting edge technologies such as voice recognition (and previously WebGL / WebAssembly)
+- Developed with the following software stack: Node, VueJS, Express, PostgreSQL, and Sequelize.
 
 #### November 2020 - Present
 
@@ -34,16 +34,10 @@ February 2020 - March 2021
 #### November 2020 - Present
 - Milan based design and engineering team focused on IoT and Deep Tech. toys
 - We are building high tech educational toys related to STEAM with a focus on creatively engaging the children
-- Launched and successfully funded a KickStarter campaign for a Ferrofluid Lamp Product in Summer of 2021 (FerroPet). Expecting to start our deliveries in April 2022; five months ahead of our September 2022 launch goal.
-
-### Design Engineer Intern at Hape
-#### November 2020 - February 2020
-- Working on various toy concepts combing electronic and digital components
-- Combing software and hardware elements in the toys for immersive experiences
-- Continuing the development of an undisclosed toy concept I previously developed with two other students
+- Launched and successfully funded a KickStarter campaign for a Ferrofluid Lamp Product in Summer of 2021 (FerroPet). Completed our deliveries on time with very positive responses from our backers.
 
 ### Software Engineer at KitchenMate, Toronto
-#### October 2018 - August 2020
+#### October 2018 - Present
 - Developed with the following software stack: Node, Angular, Express, PostgreSQL, and Sequelize, and Ionic.
 - Built a native mobile application for our customers.
 - Implemented an automated machine learning pipleline and trained neural networks for predicting our food distribution.
@@ -53,6 +47,12 @@ February 2020 - March 2021
 - Lead an internal team project that earned a $5000 prize in a machine learning hackathon.
 - Developed internal tool in Angular for comparing various hypotheses using Jupyter Notebooks.
 - Migrated codebase to Webpack, Yarn Workspaces, and ES6.
+
+### Design Engineer Intern at Hape
+#### November 2020 - February 2020
+- Working on various toy concepts combing electronic and digital components
+- Combing software and hardware elements in the toys for immersive experiences
+- Continuing the development of an undisclosed toy concept I previously developed with two other students
 
 ### Founder of The Brainery Inc, Kitchener
 #### February 2018 - October 2018
