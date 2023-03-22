@@ -34,6 +34,7 @@ February 2020 - March 2021
 - Milan based design and engineering team focused on IoT and Deep Tech. toys
 - We are building high tech educational toys related to STEAM with a focus on creatively engaging the children
 - Launched and successfully funded a KickStarter campaign for a Ferrofluid Lamp Product in Summer of 2021 (FerroPet). Completed our deliveries on time with very positive responses from our backers.
+- https://jellyfish-fab.web.app
 
 ### Software Engineer at KitchenMate, Toronto
 #### October 2018 - Present
